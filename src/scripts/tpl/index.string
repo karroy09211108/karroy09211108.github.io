@@ -1,0 +1,78 @@
+<div class="m-index">	
+	<!--<header>
+		<ul>
+			<li>深圳市&or;</li>
+			<li><input type="text" value="沙漠蜜瓜" /></li>
+		</ul>
+	</header>
+	<article id="index-scroll" spa-widget="scroll">
+		<div>
+			<div class="swiper-container" id="index-swiper">
+				<div class="swiper-wrapper">
+				  <div class="swiper-slide"><img src="/bgy/images/banner1.jpg" /></div>
+				  <div class="swiper-slide"><img src="/bgy/images/banner2.jpg" /></div>
+				  <div class="swiper-slide"><img src="/bgy/images/banner3.jpg" /></div>
+				  <div class="swiper-slide"><img src="/bgy/images/banner4.jpg" /></div>
+				  <div class="swiper-slide"><img src="/bgy/images/banner5.jpg" /></div>
+				</div>
+			</div>
+			
+			<nav>
+				<ul>
+					<li>
+						<i style="background: url(/bgy/images/img1.jpg) no-repeat center; background-size: 60px 60px;"></i>
+						<b>及时送</b>
+					</li>
+					<li>
+						<i style="background: url(/bgy/images/img2.jpg) no-repeat center; background-size: 60px 60px;"></i>
+						<b>开切清洗</b>
+					</li>
+					<li>
+						<i style="background: url(/bgy/images/img3.jpg) no-repeat center; background-size: 60px 60px;"></i>
+						<b>售后无忧</b>
+					</li>
+					<li>
+						<i style="background: url(/bgy/images/img4.jpg) no-repeat center; background-size: 60px 60px;"></i>
+						<b>充值有理</b>
+					</li>
+				</ul>
+			</nav>
+			
+			<section>
+				<div><a href="###"><img src="/bgy/images/index1.jpg"/></a></div>
+				<div><a href="###"><img src="/bgy/images/index2.jpg"/></a></div>
+				<div><a href="###"><img src="/bgy/images/index3.jpg"/></a></div>
+				<div><a href="###"><img src="/bgy/images/index4.jpg"/></a></div>
+				<div><a href="###"><img src="/bgy/images/index5.jpg"/></a></div>
+				<div><a href="###"><img src="/bgy/images/index6.jpg"/></a></div>
+				<div><a href="###"><img src="/bgy/images/index7.jpg"/></a></div>
+				<div><a href="###"><img src="/bgy/images/index8.jpg"/></a></div>
+				<div><a href="###"><img src="/bgy/images/index9.jpg"/></a></div>
+			</section>
+		</div>
+	</article>-->
+	<div class="m-index-container">
+		 
+	</div>
+	<footer>
+		<ul>
+			<li action-type="switch.view" data-tag="home">
+				<i style="background: url(/bgy/images/nav_home.png) no-repeat center; background-size: 28px 28px;"></i>
+				<b>首页</b>
+			</li>
+			<li action-type="switch.view" data-tag="list">
+				<i style="background: url(/bgy/images/nav_category.png) no-repeat center; background-size: 28px 28px;"></i>
+				<b>品类</b>
+			</li>
+			<li action-type="switch.view" data-tag="shopping">
+				<i style="background: url(/bgy/images/nav_shoppingcart.png) no-repeat center; background-size: 28px 28px;"></i>
+				<b>购物车</b>
+			</li>
+			<!--若退出则action-type为exit-->
+			<li action-type="switch.view" data-tag="my">
+				<i style="background: url(/bgy/images/nav_user.png) no-repeat center; background-size: 28px 28px;"></i>
+				<b>个人中心</b>
+			</li>
+		</ul>
+	</footer>		
+</div>

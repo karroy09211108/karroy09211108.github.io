@@ -1,0 +1,95 @@
+.m-my{
+    @include flexbox();
+    @include flex-direction(column);
+    &>*{
+        width: 100%;
+    }
+    .m-my-top{
+        height: 1.7rem;
+        background: url(/bgy/images/img_user_bg.png) no-repeat center;
+        position: relative;
+        @include flexbox();
+        @include flex-direction(column);
+        @include align-items(center);
+        padding-top: .4rem;
+        .user{
+            display: block;
+            width: .7rem;
+            height: .7rem;
+            background: url(/bgy/images/img_user_photo_not_login.png) no-repeat center;
+            background-size: 70px 70px;
+        }
+        .login{
+            font-weight: normal;
+            font-size: .14rem;
+            line-height: .36rem;
+            color: #fff;
+        }
+        .m-my-top-down{
+            width: 100%;
+            height: .6rem;
+            background: rgba(255,255,255,0.3);
+            color: #fff;
+            position: absolute;
+            bottom: 0;
+            @include flexbox();
+            li{
+                @include flex();
+                @include flexbox();
+                @include flex-direction(column);
+                @include align-items(center);
+                @include justify-content(center);
+                i{
+                    font-size: .2rem;
+                }
+                b{
+                    font-size: .12rem;
+                    font-weight: normal;
+                }
+            }
+        }
+    }
+    .m-my-down{
+        width: 100%;
+        li{
+            width: 100%;
+            height: .4rem;
+            background: #fff url(/bgy/images/icon_inter.png) no-repeat right center;
+            @include flexbox();
+            @include border(0 0 1px 0,#ccc,solid);
+            i{
+                display: inline-block;
+                width: .4rem;
+                height: .4rem;
+                line-height: .4rem;
+                text-align: center;
+                font-size: .2rem;
+            }
+            b{
+                @include flex();
+                line-height: .4rem;
+                font-size: .12rem;
+                font-weight: normal;
+            }
+        }
+    }
+    .btn{
+        width: 100%;
+        padding-top: 10%;
+        @include flexbox();
+        @include justify-content(center);
+        @include align-items(center);
+        button{
+            width: 90%;
+            height: .4rem;
+            outline: none;
+            font-size: .14px;
+            text-align: center;
+            line-height: .4rem;
+            color: #fff;
+            background: #6bcf1d;
+            border: 0;
+            border-radius: .05rem;
+        }
+    }
+}

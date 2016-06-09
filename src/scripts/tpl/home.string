@@ -1,0 +1,67 @@
+<header>
+		<ul>
+			<li>深圳市&or;</li>
+			<li><input type="text" value="沙漠蜜瓜" /></li>
+		</ul>
+	</header>
+	<article id="index-scroll" spa-widget="scroll">
+		<div>
+			<div class="swiper-container" id="index-swiper">
+				<div class="swiper-wrapper">
+				  <div class="swiper-slide"><img src="/bgy/images/banner1.jpg" /></div>
+				  <div class="swiper-slide"><img src="/bgy/images/banner2.jpg" /></div>
+				  <div class="swiper-slide"><img src="/bgy/images/banner3.jpg" /></div>
+				  <div class="swiper-slide"><img src="/bgy/images/banner4.jpg" /></div>
+				  <div class="swiper-slide"><img src="/bgy/images/banner5.jpg" /></div>
+				</div>
+			</div>
+			
+			<nav>
+				<ul>
+					<li>
+						<i style="background: url(/bgy/images/img1.jpg) no-repeat center; background-size: 60px 60px;"></i>
+						<b>及时送</b>
+					</li>
+					<li>
+						<i style="background: url(/bgy/images/img2.jpg) no-repeat center; background-size: 60px 60px;"></i>
+						<b>开切清洗</b>
+					</li>
+					<li>
+						<i style="background: url(/bgy/images/img3.jpg) no-repeat center; background-size: 60px 60px;"></i>
+						<b>售后无忧</b>
+					</li>
+					<li>
+						<i style="background: url(/bgy/images/img4.jpg) no-repeat center; background-size: 60px 60px;"></i>
+						<b>充值有理</b>
+					</li>
+				</ul>
+			</nav>
+			
+			<section>
+				<div><a href="###"><img src="/bgy/images/index22.jpg"/></a></div>
+				<div><a href="###"><img src="/bgy/images/index23.jpg"/></a></div>
+				<div><a href="###"><img src="/bgy/images/index24.jpg"/></a></div>
+				<div><a href="###"><img src="/bgy/images/index1.jpg"/></a></div>
+				<div><a href="###"><img src="/bgy/images/index2.jpg"/></a></div>
+				<div><a href="###"><img src="/bgy/images/index3.jpg"/></a></div>
+				<div><a href="###"><img src="/bgy/images/index4.jpg"/></a></div>
+				<div><a href="###"><img src="/bgy/images/index5.jpg"/></a></div>
+				<div><a href="###"><img src="/bgy/images/index6.jpg"/></a></div>
+				<div><a href="###"><img src="/bgy/images/index7.jpg"/></a></div>
+				<div><a href="###"><img src="/bgy/images/index8.jpg"/></a></div>
+				<div><a href="###"><img src="/bgy/images/index9.jpg"/></a></div>
+				<div><a href="###"><img src="/bgy/images/index10.jpg"/></a></div>
+				<div><a href="###"><img src="/bgy/images/index11.jpg"/></a></div>
+				<div><a href="###"><img src="/bgy/images/index12.jpg"/></a></div>
+				<div><a href="###"><img src="/bgy/images/index16.jpg"/></a></div>
+				<div><a href="###"><img src="/bgy/images/index17.jpg"/></a></div>
+				<div><a href="###"><img src="/bgy/images/index18.jpg"/></a></div>
+				<div><a href="###"><img src="/bgy/images/index19.jpg"/></a></div>
+				<div><a href="###"><img src="/bgy/images/index20.jpg"/></a></div>
+				<div><a href="###"><img src="/bgy/images/index21.jpg"/></a></div>
+				<div><a href="###"><img src="/bgy/images/index13.jpg"/></a></div>
+				<div><a href="###"><img src="/bgy/images/index14.jpg"/></a></div>
+				<div><a href="###"><img src="/bgy/images/index15.jpg"/></a></div>
+			</section>
+		</div>
+	</article>
