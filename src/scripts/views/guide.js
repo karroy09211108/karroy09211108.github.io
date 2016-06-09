@@ -16,7 +16,7 @@ SPA.defineView('guide',{
 	bindEvents:{
 		'beforeShow':function(){
 			var guideSwiper = new Swiper('#guide-swiper',{
-				loop:true,
+				loop:false,
 				autoplay:2000
 			})
 		}
